@@ -97,9 +97,8 @@ Teste seu jogo com os seguintes cenários:
 
 ## 📤 Entrega
 
-1. Crie um repositório no GitHub
-2. Adicione o arquivo `.py` com seu código
-3. Inclua um README com:
+1. Adicione seu codigo em uma pasta dentro da pasta referente ao seu nome
+2. Inclua um README com:
    - Instruções para executar o jogo
    - Funcionalidades implementadas
    - Dificuldades encontradas (se houver)
